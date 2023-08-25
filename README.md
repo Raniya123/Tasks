@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Project Functions:
+- Local and schedule notifications
+- Store Data in database 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
