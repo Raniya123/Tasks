@@ -1,13 +1,16 @@
 # tasks
 
-A new Flutter project.
+A new Flutter project Getx state management system.
+
+![Screenshot](image1.png)
+![Screenshot](image2.png)
 
 ## Project Functions:
 - Local and schedule notifications
 - Store Data in database 
+- Dark/Light Mode
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
